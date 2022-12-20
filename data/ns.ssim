@@ -1,0 +1,4 @@
+data.ns  ns:auth
+data.ns  ns:home
+data.ns  ns:profile
+data.ns  ns:internet

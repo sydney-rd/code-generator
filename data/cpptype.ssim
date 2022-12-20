@@ -1,0 +1,6 @@
+data.cpptype  cpptype:auth.Login  comp:N
+data.cpptype  cpptype:auth.Signup  comp:N
+data.cpptype  cpptype:home.Search  comp:N
+data.cpptype  cpptype:home.Calendar  comp:N
+data.cpptype  cpptype:profile.Account  comp:N
+data.cpptype  cpptype:internet.ConnStatus  comp:N

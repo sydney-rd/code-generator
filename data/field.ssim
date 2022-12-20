@@ -1,0 +1,10 @@
+data.field  field:auth.Login.status  reftype:bool  dflt:true  comment:”login status from server”
+data.field  field:auth.Login.user_id  reftype:”std::string”  dflt:””  comment:”user id”
+data.field  field:home.Search.srch_fld  reftype:”std::string”  dflt:””  comment:”search query”
+data.field  field:home.Search.submit  reftype:bool  dflt:false  comment:”search submission status”
+data.field  field:home.Calendar.view  reftype:int  dflt:0  comment:”calendar view id”
+data.field  field:home.Calendar.date  reftype:”std::string”  dflt:””  comment:”current date”
+data.field  field:profile.Account.notifications  reftype:bool  dflt:false  comment:”if user wants to accept notifications”
+data.field  field:profile.Account.photo_id  reftype:bool  dflt:false  comment:”if user uploaded photo id”
+data.field  field:profile.Account.w9  reftype:bool  dflt:false  comment:”if user uploaded W-9 tax doc”
+data.field  field:internet.ConnStatus.status  reftype:int  dflt:0  comment:”0 means wifi, 1 means mobile, 2 means no connection”
